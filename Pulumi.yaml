@@ -1,0 +1,7 @@
+name: H4shL4mb
+description: "Built for speed. Designed for security. Deployed with style. \U0001F60E"
+runtime: go
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: go
